@@ -1,0 +1,38 @@
+body {
+  padding: 50px;
+  margin: 0 auto;
+  width: 100vw;
+  min-height: calc(100vh - 100px);
+  background-color:#FDFAEC
+}
+
+img {
+  width:300px;
+  height:300px;
+}
+
+hr {
+  width: 90%;
+  height: 2px;
+  background-color: green;
+
+}
+
+header {
+  text-align: center;
+}
+
+#section-container {
+display: flex;
+justify-content: center;
+background-color: #B7C9E2;
+border-radius: 10px;
+}
+
+section {
+  width: 40%;
+}
+
+footer {
+  text-align: center;
+}
